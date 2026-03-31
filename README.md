@@ -2,8 +2,8 @@
 
 ## 👤 Student Details
 
-* **Name:** Vanshika Karamchandani
-* **Roll Number:** 24BCE11281
+* **Name:** Priyanshi Prajapati
+* **Roll Number:** 24BAI10708
 
 ---
 
